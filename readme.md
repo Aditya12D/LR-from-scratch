@@ -30,8 +30,6 @@ This repository contains Python implementations of **Simple Linear Regression** 
 
 3. **Student\_Performance.csv** – For multiple regression with categorical encoding.
 
-> ⚠️ **Note:** Adjust dataset paths in scripts as per your directory structure.
-
 ## 📈 Outputs
 
 * **Simple Linear Regression:** Regression line over scatter plot predicting Final Marks from Attendance Hours.
